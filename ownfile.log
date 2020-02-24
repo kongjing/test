@@ -20,3 +20,10 @@ one
 two
 
 three
+
+@git_dir = File.expand_path(git_dir)
+lib/simplegit.rb
+     #git_dir = File.expand_path(git_dir)
+  git_dir = File.expand_path(git_dir)
+
+  git_dir = yes
