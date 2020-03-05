@@ -1,0 +1,29 @@
+new a  , own
+
+add sth in this file, in master branch
+add sth in this file, in master branch , two
+
+add sth in this file, in master branch , three
+
+add sth wa wa one master
+
+add sth wa wa two master
+
+change in master branch
+
+MASTER, ONE
+
+MASTER, TWO
+
+one
+
+two
+
+three
+
+@git_dir = File.expand_path(git_dir)
+lib/simplegit.rb
+     #git_dir = File.expand_path(git_dir)
+  git_dir = File.expand_path(git_dir)
+
+  git_dir = yes
